@@ -1,7 +1,7 @@
 import math
 import streamlit as st
 
-st.title("Volume Bola KalKulator")
+st.title("Kalkulator Volume Bola")
 
 radius = st.number_input("Masukkan jari-jari bola (r):", min_value=0.0, format="%.2f")
 
